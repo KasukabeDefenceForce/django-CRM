@@ -6,3 +6,4 @@ cursor = dataBase.cursor()
 
 cursor.execute('CREATE DATABASE db1')
 
+print("db created")
